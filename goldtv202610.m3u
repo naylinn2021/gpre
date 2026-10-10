@@ -310,42 +310,4 @@ http://31.43.191.125:8080/restream/restream/827
 #EXTINF:-1 tvg-id="Mezzo" tvg-name="ES: MEZZO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES | MUSICA VIP",ES: MEZZO 
 http://31.43.191.125:8080/restream/restream/34145 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | TOP CANALES VIP",ES: M+ BUEN VIAJE 
-http://31.43.191.125:8080/restream/restream/60251 
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA 100% CAZA 
-http://31.43.191.125:8080/restream/restream/99473 
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA 100% PESCA 
-http://31.43.191.125:8080/restream/restream/99474 
-#EXTINF:-1 tvg-id="M+ #0" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES VIP",ES: RALLY TV 
-http://31.43.191.125:8080/restream/restream/128955 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png" group-title="ES | UFC",ES: MAX PPV 
-http://31.43.191.125:8080/restream/restream/129979 
-#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | TOP CANALES VIP",ES: CASTILLA LA MANCHA 
-http://31.43.191.125:8080/restream/restream/132291 
-#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1 
-http://31.43.191.125:8080/restream/restream/132295 
-#EXTINF:-1 tvg-id="" tvg-name="CH4" tvg-logo="" group-title="PPV",CH4 
-http://31.43.191.125:8080/restream/restream/132298 
-#EXTINF:-1 tvg-id="" tvg-name="CH11" tvg-logo="" group-title="PPV",CH11 
-http://31.43.191.125:8080/restream/restream/132305 
-#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12 
-http://31.43.191.125:8080/restream/restream/132306 
-#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2 
-http://31.43.191.125:8080/restream/restream/132296 
-#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3 
-http://31.43.191.125:8080/restream/restream/132297 
-#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5 
-http://31.43.191.125:8080/restream/restream/132299 
-#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6 
-http://31.43.191.125:8080/restream/restream/132300 
-#EXTINF:-1 tvg-id="" tvg-name="CH7" tvg-logo="" group-title="PPV",CH7 
-http://31.43.191.125:8080/restream/restream/132301 
-#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8 
-http://31.43.191.125:8080/restream/restream/132302 
-#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9 
-http://31.43.191.125:8080/restream/restream/132303 
-#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10 
-http://31.43.191.125:8080/restream/restream/132304 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS 
-http://31.43.191.125:8080/restream/restream/132309 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="" group-title="ES | MUSICA VIP",ES: M+ HITS 
-http://31.43.191.125:8080/restream/restream/134217 
+http://31.43.191.125:8080/restream/restream/60251
